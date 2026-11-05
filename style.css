@@ -8,3 +8,6 @@
 @media(max-width:760px){section[id]{scroll-margin-top:8rem}.hero-foot .education-mark span{margin-top:0}}
 
 .stack-item strong small{display:block;margin-top:4px;font-size:10px;line-height:1.3;color:#5f7568;font-weight:400}.project aside .baseline-hours strong{white-space:normal}
+
+/* A clearer education credential */
+.education-mark{gap:16px;padding:15px 18px;background:#e4ecdf;border-left:3px solid #557d68}.education-mark strong{font-size:30px;padding-right:16px}.education-mark span{font-size:13px;color:#345848;line-height:1.45}@media(max-width:760px){.hero-foot .education-mark{display:inline-flex}.education-mark strong{font-size:27px}}
