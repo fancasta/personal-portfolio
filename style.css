@@ -11,3 +11,6 @@
 
 /* A clearer education credential */
 .education-mark{gap:16px;padding:15px 18px;background:#e4ecdf;border-left:3px solid #557d68}.education-mark strong{font-size:30px;padding-right:16px}.education-mark span{font-size:13px;color:#345848;line-height:1.45}@media(max-width:760px){.hero-foot .education-mark{display:inline-flex}.education-mark strong{font-size:27px}}
+
+/* Related reading */
+.context-link{display:inline-block;margin-top:16px;color:#275e49;font-size:13px;font-weight:700;text-decoration:underline;text-underline-offset:4px;line-height:1.5}
